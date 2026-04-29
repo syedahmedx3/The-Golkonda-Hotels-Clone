@@ -52,6 +52,5 @@ The-Golkonda-Hotels-Clone
 ## 🤝 Contributing
 * Contributions and feedback are always welcome! Feel free to open an issue or submit a pull request.
 ##
-If you find this project useful for your learning, please give it a ⭐!
-
+If you find this project useful for your learning, please give it a ⭐
     
